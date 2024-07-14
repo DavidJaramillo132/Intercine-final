@@ -1,0 +1,16 @@
+{
+    "salas": [
+        {
+            "nombre": "Sala de cines 1"
+        },
+        {
+            "nombre": "Sala de cines 2"
+        },
+        {
+            "nombre": "Sala de cines 3"
+        },
+        {
+            "nombre": "Sala ViP"
+        }
+    ]
+}

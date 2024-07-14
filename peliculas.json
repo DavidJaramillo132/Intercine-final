@@ -1,0 +1,44 @@
+[
+    {
+        "titulo": "joker 2",
+        "descripcion": "dasdsad",
+        "trailer": "dasda",
+        "imagen": null,
+        "imagen_path": "C:/Users/djdav/Desktop/Universidad/SegundoSemestre/Intercine/imagenes/joker.jpeg"
+    },
+    {
+        "titulo": "asdas",
+        "descripcion": "dsadassda",
+        "trailer": "dasda",
+        "imagen": null,
+        "imagen_path": "C:/Users/djdav/Desktop/Universidad/SegundoSemestre/Intercine/imagenes/intensamente.jpg"
+    },
+    {
+        "titulo": "truman show",
+        "descripcion": "asdadasdasdasdaa",
+        "trailer": "asdaasd",
+        "imagen": null,
+        "imagen_path": "C:/Users/djdav/Desktop/Universidad/SegundoSemestre/Intercine/imagenes/Dune_2.png"
+    },
+    {
+        "titulo": "pinochro",
+        "descripcion": "adasd",
+        "trailer": "dasddasd",
+        "imagen": null,
+        "imagen_path": "C:/Users/djdav/Desktop/Universidad/SegundoSemestre/Intercine/imagenes/pinocho.jpg"
+    },
+    {
+        "titulo": "sda",
+        "descripcion": "asd",
+        "trailer": "asd",
+        "imagen": null,
+        "imagen_path": "C:/Users/djdav/Desktop/Universidad/SegundoSemestre/Intercine/imagenes/club.png"
+    },
+    {
+        "titulo": "da",
+        "descripcion": "da",
+        "trailer": "da",
+        "imagen": null,
+        "imagen_path": "C:/Users/djdav/Desktop/Universidad/SegundoSemestre/Intercine/imagenes/spider_man_2.jpg"
+    }
+]
