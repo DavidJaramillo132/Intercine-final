@@ -34,7 +34,7 @@ def main():
     #Muestra los botones para el usuario cliente
     def mostrar_botones_laterales_usuario(username):
         
-        imagen = Image.open(r"SegundoSemestre\Intercine\imagenes\intercine.png")
+        imagen = Image.open(r"SegundoSemestre\Intercine\imagenes\intercine.png") #cambiar direccion
         imagen = imagen.resize((100, 80))
         imagen_tk = ImageTk.PhotoImage(imagen)
         label_imagen = ctk.CTkLabel(navegacion, image=imagen_tk, text="")
